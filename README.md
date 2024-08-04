@@ -1,8 +1,18 @@
-# React + Vite
+<h1>React Twitter X Clone App - Firebase</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>This project is a clone of Twitter X, a social media application developed with React. Users can create an account and log in or authenticate and log in with their Google account. Authentication is provided through Firebase. Users can tweet, edit and delete tweets. 
+Users can view and like tweets from other users.</p>
 
-Currently, two official plugins are available:
+<h2>Used Technologies</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ul>
+
+<li>firebase</li>
+<li>moment</li>
+<li>react-icons</li>
+<li>react-router-dom</li>
+<li>react-toastify</li>
+<li>uuid</li>
+<li>tailwindcss</li>
+
+</ul>
